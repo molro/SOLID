@@ -1,0 +1,23 @@
+{
+  "name": "solid_ts",
+  "version": "1.0.0",
+  "description": "SOLID Principles with TS",
+  "main": "/dir/ index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/molro/SOLID.git"
+  },
+  "keywords": [
+    "SOLID",
+    "Typescript"
+  ],
+  "author": "@molro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/molro/SOLID/issues"
+  },
+  "homepage": "https://github.com/molro/SOLID#readme"
+}
