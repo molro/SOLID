@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/molro/SOLID/issues"
   },
-  "homepage": "https://github.com/molro/SOLID#readme"
+  "homepage": "https://github.com/molro/SOLID#readme",
+  "devDependencies": {
+    "typescript": "^4.7.2"
+  }
 }
